@@ -6,8 +6,90 @@ h1 {
 header {
     background-color: black;
     color: aliceblue;
+font-family: sans-serif;
+height: 125px;
 }
 
-#carouselExampleSlidesOnly {
+ul {
+    color: aliceblue;
+}
+
+#carouselExampleRide {
     size: 100px;
+}
+
+.end {
+    font-family: sans-serif;
+    padding: 50px;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    margin-top: 50px;
+}
+
+#carouselExampleAutoplaying {
+    width: 1000px;
+    height: 600px;
+    padding-top: 50px;
+    border: 10px solid #000000;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin-left: 250px;
+margin-bottom: 50px;
+    
+}
+
+img {
+    width: 700px;
+    height: 500px;
+}
+
+
+
+main {
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    padding-top: 50px;
+    font-size: larger;
+}
+
+.idk {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2 {
+padding-right: 100px;
+padding-left: 100px;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+.tickets {
+    margin-left: 100px;
+}
+
+.ticklink {
+    color: dimgray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: indigo;
+    text-decoration: underline wavy;
 }
