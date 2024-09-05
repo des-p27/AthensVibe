@@ -92,15 +92,13 @@ h1 {
 
 a:hover {
     color: indigo;
-    text-decoration: underline wavy;
-}
+    }
 
 a:visited {
-    color: cornflowerblue;
+    color: rgb(164, 172, 188);
     text-decoration: none;
 }
 
-.logo {
-    margin-left: 400px;
-    padding-left: 400px;
+.ticklink:hover {
+    text-decoration: underline wavy;
 }
