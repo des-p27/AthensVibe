@@ -1,4 +1,5 @@
 h1 {
+    margin-top: 40px;
     color: aliceblue;
     background-color: black;
 }
@@ -92,4 +93,14 @@ h1 {
 a:hover {
     color: indigo;
     text-decoration: underline wavy;
+}
+
+a:visited {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.logo {
+    margin-left: 400px;
+    padding-left: 400px;
 }
