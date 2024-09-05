@@ -1,0 +1,13 @@
+h1 {
+    color: aliceblue;
+    background-color: black;
+}
+
+header {
+    background-color: black;
+    color: aliceblue;
+}
+
+#carouselExampleSlidesOnly {
+    size: 100px;
+}
