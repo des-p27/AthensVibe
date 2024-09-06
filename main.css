@@ -5,7 +5,7 @@ h1 {
 }
 
 header {
-    background-color: black;
+    background-color: rgb(35, 33, 33);
     color: aliceblue;
 font-family: sans-serif;
 height: 125px;
@@ -26,7 +26,7 @@ ul {
     color: rgb(0, 0, 0);
     background-color: antiquewhite;
     margin-top: 50px;
-}
+    }
 
 #carouselExampleAutoplaying {
     width: 1000px;
@@ -101,4 +101,17 @@ a:visited {
 
 .ticklink:hover {
     text-decoration: underline wavy;
+}
+
+
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo {
+    margin-left: 0px;
+    height: 120px;
+    width: 200px;
 }
